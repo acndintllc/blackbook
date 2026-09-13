@@ -1,0 +1,12 @@
+private/
+private/**
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+node_modules/
+dist/
+build/
+.DS_Store
